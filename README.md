@@ -52,7 +52,7 @@ Parameters
 Parameters can be replaced with your own values when standing up a stack. Use
 the `-P` flag to specify a custom parameter.
 
-* `server_hostname`: Hostname to set for the server (Default: QlikView)
+* `server_hostname`: Hostname to set for the server (Default: DNN)
 * `image`: Operating System to use (Default: Windows Server 2008 R2 SP1)
 * `flavor`: Server size for your deployment (Default: 4 GB Performance)
 
