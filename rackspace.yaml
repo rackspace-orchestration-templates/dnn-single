@@ -8,7 +8,7 @@ reach-info:
   tattoo: https://600861890ddb34a8670a-744765205721eed93c384dae790e86aa.ssl.cf2.rackcdn.com/dnn-tattoo.png
 abstract: A single Windows server running DNN on IIS with ASP .Net 4.5 and a FTP site enabled.
 instructions: |
-#### Getting Started
+  #### Getting Started
   If you are new to DNN, the [DNN
   Community](http://www.dnnsoftware.com/community) has great ressources to
   get you started including a well maintained
