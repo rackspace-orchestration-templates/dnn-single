@@ -4,8 +4,8 @@ application-name: DNN
 flavor: Single Windows server
 flavor-weight: 3
 reach-info:
-  icon-20x20: https://600861890ddb34a8670a-744765205721eed93c384dae790e86aa.ssl.cf2.rackcdn.com/dnn-icon-20x20.png
-  tattoo: https://600861890ddb34a8670a-744765205721eed93c384dae790e86aa.ssl.cf2.rackcdn.com/dnn-tattoo.png
+  icon-20x20: https://0b5294b243620310a700-e388a7f3aba385a925111b1fc6f680d4.ssl.cf2.rackcdn.com/dnn-icon-20x20.png
+  tattoo: https://0b5294b243620310a700-e388a7f3aba385a925111b1fc6f680d4.ssl.cf2.rackcdn.com/dnn-tattoo.png
 abstract: |
   A single Windows server running [DNN](http://www.dnnsoftware.com/) on
   [IIS](http://www.iis.net/) with [ASP .Net 4.5](http://www.asp.net/), and a
