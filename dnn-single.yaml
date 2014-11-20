@@ -8,6 +8,7 @@ parameter_groups:
 
 - label: Server Settings
   parameters:
+  - server_hostname
   - image
   - flavor
 
@@ -15,7 +16,6 @@ parameter_groups:
   parameters:
   - domain
   - ftp_username
-  - server_hostname
   - dnn_version
 
 
