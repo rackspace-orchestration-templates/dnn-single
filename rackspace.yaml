@@ -56,3 +56,4 @@ instructions: |
   Once the deployment is up, the script will not be run again, so it is
   safe to change settings and configurations on your server and within
   DNN.
+user-input-required: true
