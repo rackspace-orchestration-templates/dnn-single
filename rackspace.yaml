@@ -57,3 +57,7 @@ instructions: |
   safe to change settings and configurations on your server and within
   DNN.
 user-input-required: true
+requirements: |
+  A single Windows server running [DNN](http://www.dnnsoftware.com/)
+  on [IIS](http://www.iis.net/) with [ASP .Net 4.5](http://www.asp.net/)
+  and an FTP site enabled.
