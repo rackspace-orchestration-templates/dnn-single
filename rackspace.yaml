@@ -7,9 +7,7 @@ reach-info:
   icon-20x20: https://0b5294b243620310a700-e388a7f3aba385a925111b1fc6f680d4.ssl.cf2.rackcdn.com/dnn-icon-20x20.png
   tattoo: https://0b5294b243620310a700-e388a7f3aba385a925111b1fc6f680d4.ssl.cf2.rackcdn.com/dnn-tattoo.png
 abstract: |
-  A single Windows server running [DNN](http://www.dnnsoftware.com/) on
-  [IIS](http://www.iis.net/) with [ASP .Net 4.5](http://www.asp.net/), and a
-  FTP site enabled.
+  DNN is a content management system based on Microsoft.NET.
 instructions: |
   #### Getting Started
   If you are new to DNN, the [DNN
